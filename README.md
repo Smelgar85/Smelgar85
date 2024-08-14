@@ -65,7 +65,7 @@ I also hold advanced diplomas in **Sound Engineering** and **Cross-Platform Appl
   - Payment handling via Google Pay and PayPal.
   - Plans to incorporate cryptocurrency payments.
 
-[📱 Project Repository (In Development)](https://github.com/Smelgar85/RankingSystemApp)
+[📱 Project Repository (In Development)](https://github.com/Smelgar85/PowerState)
 
 ---
 
@@ -170,7 +170,7 @@ También tengo titulaciones avanzadas en **Sonido** y **Desarrollo de Aplicacion
   - Manejo de pagos a través de Google Pay y PayPal.
   - Planes para incorporar pagos con criptomonedas.
 
-[📱 Repositorio del Proyecto (en desarrollo)](https://github.com/Smelgar85/RankingSystemApp)
+[📱 Repositorio del Proyecto (en desarrollo)](https://github.com/Smelgar85/PowerState)
 
 ---
 
