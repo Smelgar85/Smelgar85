@@ -90,8 +90,8 @@ I also hold advanced diplomas in **Sound Engineering** and **Cross-Platform Appl
 
 ## 📫 Contact Me
 
-- **Email:** [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn:** [linkedin.com/in/your_profile](https://linkedin.com/in/your_profile)
+- **Correo:** [sebastian.melgar@gmail.com](mailto:sebastian.melgar@gmail.com)
+- **LinkedIn:** [linkedin.com/](https://www.linkedin.com/in/sebasti%C3%A1n-melgar-mar%C3%ADn/)
 
 ---
 
@@ -195,8 +195,8 @@ También tengo titulaciones avanzadas en **Sonido** y **Desarrollo de Aplicacion
 
 ## 📫 Contáctame
 
-- **Correo:** [tu_correo@example.com](mailto:sebastian.melgar@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tu_usuario](https://www.linkedin.com/in/sebasti%C3%A1n-melgar-mar%C3%ADn/)
+- **Correo:** [sebastian.melgar@gmail.com](mailto:sebastian.melgar@gmail.com)
+- **LinkedIn:** [linkedin.com/](https://www.linkedin.com/in/sebasti%C3%A1n-melgar-mar%C3%ADn/)
 
 ---
 
